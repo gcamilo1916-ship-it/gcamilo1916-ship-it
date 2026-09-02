@@ -22,7 +22,7 @@ Currently undertaking an Academic Exchange Program at the **Free University of B
 Designed and engineered a portable, embedded loT tracker to measure barbell repetition velocity and estimate RPE.<!--[cite: 3] --> 
 * **Tech:** C++, PlatformIO, VS Code, ESP32-C6, MPU6050, I2C, 3D Printing.<!--[cite: 3] -->
 
-#### [Racing Kart Aero-Package Development](#)
+#### [Racing Kart Aero-Package Development](https://github.com/gcamilo1916-ship-it/kart-aero-cfd)
 Spearheading the aerodynamic optimization of a racing kart chassis front wing utilizing S1223 multi-element airfoils and NACA profiles.<!--[cite: 3] --> Simulating airflow, downforce, and drag at specific ride heights using CFD.<!--[cite: 3] -->
 * **Tech:** CFD, FEA, SolidWorks.<!--[cite: 3] -->
 
