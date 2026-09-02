@@ -26,7 +26,7 @@ Designed and engineered a portable, embedded loT tracker to measure barbell repe
 Spearheading the aerodynamic optimization of a racing kart chassis front wing utilizing S1223 multi-element airfoils and NACA profiles.<!--[cite: 3] --> Simulating airflow, downforce, and drag at specific ride heights using CFD.<!--[cite: 3] -->
 * **Tech:** CFD, FEA, SolidWorks.<!--[cite: 3] -->
 
-#### [Powertrain Kinematic Design](#)
+#### [Powertrain Kinematic Design](https://github.com/gcamilo1916-ship-it/powertrain-kinematic-design)
 Engineered a fully functional valve-train assembly within SolidWorks.<!--[cite: 3] --> Applied rigorous Geometric Dimensioning and Tolerancing (GD&T) to ensure manufacturing feasibility, producing technical drawings and rendering cutaway views.<!--[cite: 3] -->
 * **Tech:** SolidWorks, GD&T, Technical Drawing, SolidWorks Visualize.<!--[cite: 3] -->
 
