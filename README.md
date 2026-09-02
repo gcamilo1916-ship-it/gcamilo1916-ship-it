@@ -1,4 +1,4 @@
-# Hi, I'm Camilo 👋
+# Hi, I'm Guilherme Camilo 👋
 
 **Mechanical Engineering Student | Automotive Aerodynamics | Mechatronics & Prototyping**
 
