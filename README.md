@@ -18,7 +18,7 @@ Currently undertaking an Academic Exchange Program at the **Free University of B
 
 ### 🚀 Featured Projects
 
-#### [Velocity Based Training (VBT) Sensor Tracker](#)
+#### [Velocity Based Training (VBT) Sensor Tracker](https://github.com/gcamilo1916-ship-it/vbt-sensor-tracker)
 Designed and engineered a portable, embedded loT tracker to measure barbell repetition velocity and estimate RPE.<!--[cite: 3] --> 
 * **Tech:** C++, PlatformIO, VS Code, ESP32-C6, MPU6050, I2C, 3D Printing.<!--[cite: 3] -->
 
