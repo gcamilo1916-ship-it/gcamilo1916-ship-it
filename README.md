@@ -40,7 +40,7 @@ Managing the complete mechanical overhaul and servicing of a vintage 100cc racin
 * 🏅 **Competitive Powerlifting:** 3rd Place Overall Junior / 2nd Place (-67.5kg category) GPC European Powerlifting Championships (May, 2026).<!--[cite: 3] -->
 * 🏅 **Competitive Powerlifting:** 1st Place Junior (-66kg category) IPF Portuguese Competition (August, 2026).<!--[cite: 3] -->
 * 💼 **Entrepreneurship:** Founder & Program Director at Performance Coaching Initiative, overseeing client acquisition and program structuring.<!--[cite: 3] -->
-* 🌍 **Languages:** Portuguese (Native), English (C2), Italian (Basic), French (Basic).<!--[cite: 3] -->
+* 🌍 **Languages:** Portuguese (Native), English (C2), German (Undertaking A1 Certification), Italian (Basic), French (Basic).<!--[cite: 3] -->
 
 ---
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/guilherme-camilo-7325152a8/)<!--[cite: 3] --> | guilherme.c.camilo@protonmail.com<!--[cite: 3] -->
