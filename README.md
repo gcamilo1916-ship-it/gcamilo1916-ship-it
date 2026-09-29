@@ -2,7 +2,7 @@
 
 **Mechanical Engineering Student | Automotive Aerodynamics | Mechatronics & Prototyping**
 
-Mechanical Engineering student with hands-on expertise in CAD/CAM, aerodynamics, and mechatronic prototyping.<!--[cite: 3] --> Demonstrated ability to lead complex technical projects, from vintage kart mechanical overhauls to the development of embedded loT training sensors using C++ and microcontrollers.<!--[cite: 3] --> 
+Mechanical Engineering student with hands-on expertise in CAD/CAM, aerodynamics, and mechatronic prototyping.<!--[cite: 3] --> Demonstrated ability to lead complex technical projects, from vintage kart mechanical overhauls to the development of embedded loT training sensors using microcontrollers in my latest project.<!--[cite: 3] --> 
 
 Currently undertaking an Academic Exchange Program at the **Free University of Bozen-Bolzano (UNIBZ)**, alongside my BSc in Mechanical Engineering at **Instituto Superior de Engenharia de Lisboa (ISEL)**.<!--[cite: 3] -->
 
@@ -12,7 +12,7 @@ Currently undertaking an Academic Exchange Program at the **Free University of B
 
 * **Engineering & Design:** SolidWorks, SolidWorks Visualize, GD&T, Technical Drawing, 3D Printing/Rapid Prototyping, Structural Statics<!--[cite: 3] -->
 * **Computational Analysis:** CFD, FEA, FTOOL, wxMaxima, Excel<!--[cite: 3] -->
-* **Mechatronics & Firmware:** C/C++, Python, PlatformIO, VS Code, ESP32-C6, MPU6050<!--[cite: 3] -->
+* **Mechatronics & Firmware:** C/C++, Python, PlatformIO, VS Code, ESP32, MPU6050<!--[cite: 3] -->
 
 ---
 
