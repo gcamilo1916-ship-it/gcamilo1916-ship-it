@@ -11,7 +11,7 @@ Currently undertaking an Academic Exchange Program at the **Free University of B
 ### 🛠️ Tech Stack & Tools
 
 * **Engineering & Design:** SolidWorks, SolidWorks Visualize, GD&T, Technical Drawing, 3D Printing/Rapid Prototyping, Structural Statics<!--[cite: 3] -->
-* **Computational Analysis:** CFD, FEA, FTOOL, wxMaxima, Excel, MatLab<!--[cite: 3] -->
+* **Computational Analysis:** CFD, FEA, FTOOL, wxMaxima, Excel, MatLab, ANSYS Mechanical, SimScale<!--[cite: 3] -->
 * **Mechatronics & Firmware:** C/C++, Python, PlatformIO, VS Code, ESP32, MPU6050<!--[cite: 3] -->
 
 ---
